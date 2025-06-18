@@ -37,7 +37,10 @@ Important Note - Once you submit your solution, you cannot push changes as this 
 
 ## Rewards
 
-The winner will receive a $50 Amazon gift card and 5,000 build credits. The first 50 submissions will receive our limited first-edition NFTs.
+- Winner: $80 Amazon gift card and 5,000 build credits.
+- Runner-up: $40 Amazon gift card and 2,500 build credits.
+- First 50 submissions will receive our limited first-edition NFTs.
+
 Feel free to submit your solutions as long as they meet the criteria. Whether they are Single-Page Applications or Work-In-Progress apps or games. All are welcome - and may the odds be ever in your favour!
 <br>
 
