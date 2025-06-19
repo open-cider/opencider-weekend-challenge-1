@@ -3,7 +3,7 @@
 ## Introduction
 
 Welcome to the very first OpenCider API Weekend Code Challenge! Your task, should you choose to accept it, is quite simple - develop an app or game that uses OpenCider APIs. 
-The goal is to build immersive experiences for your human users. 
+The goal is to build the most immersive and intuitive experiences for your users within the given time.
 <br>
 
 
